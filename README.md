@@ -23,5 +23,6 @@ Usage of structures, enums, and unions
 ## Compile and run any of the programs:
 g++ -o output file.cpp
 ./output
-Contributing
+
+## Contributing
 Contributions are welcome! If you have any useful C++ programs or improvements, please feel free to submit a pull request.
